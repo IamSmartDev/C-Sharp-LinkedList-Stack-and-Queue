@@ -1,0 +1,16 @@
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\bin\Debug\GenericClassRecreation.exe.config
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\bin\Debug\GenericClassRecreation.exe
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\bin\Debug\GenericClassRecreation.pdb
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.csproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.exe
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.pdb
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\bin\Debug\GenericClassRecreation.exe.config
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\bin\Debug\GenericClassRecreation.exe
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\bin\Debug\GenericClassRecreation.pdb
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.csproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.exe
+C:\Users\Decagon\OneDrive - Decagon Institute\Desktop\WK2 TASK\Generic\GenericClassRecreation\obj\Debug\GenericClassRecreation.pdb
